@@ -2,7 +2,7 @@
 layout: post
 title:  "Sandi Metz TRUE"
 date:   2015-03-18 15:03:00
-categories: ruby,refactoring
+categories: ruby
 ---
 
 เขียนโค้ดมีคุณภาพตามแนวทาง Sandi Metz's TRUE
